@@ -1,0 +1,11 @@
+.grid {
+    display: grid;
+    grid-template-columns: 33% 33% 33%;
+    gap: 1em;
+}
+
+
+.grid div {
+    background: whitesmoke;
+    padding: 1rem;
+}
